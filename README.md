@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Phidias</h1>
-<h3 align="center">Un développeur backend passionné, je m’intéresse à tout ce qui touche le monde du développement d'application</h3>
+<h3 align="center">Un développeur fullstack passionné, je m’intéresse à tout ce qui touche le monde du développement d'application</h3>
 
 - 🌱 J'apprends actuellement **Next Js**
 
